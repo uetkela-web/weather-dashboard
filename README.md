@@ -56,3 +56,4 @@ The app uses `fetch()`, `async/await`, `response.json()`, `response.ok`, `try/ca
 - Toggle dark mode, refresh, and confirm the theme is remembered.
 - Turn off internet briefly and verify the friendly network error.
 - Test on a narrow mobile viewport.
+# weather-dashboard
